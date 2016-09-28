@@ -3,11 +3,45 @@
 body{
 	font-family: "Century Gothic", Century Gothic, Apple Gothic, san-serif;
 	font-size: 14pt;
-	background-color: cyan;
+	background-color: gray;
 }
 
 h1{
 	text-align: center;
-	font-size: 10pm;
-	font-color: violet;
+	font-size: 10pt;
+	font-color: #2f4f4f;
+}
+
+.image-container {
+	display: block;
+	width: 500px;
+}
+
+img{
+    width:500px; /* you can use % */
+    height: auto;
+}
+
+#me.jpg {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+#header {
+	background-color: green;
+	border-style: dotted;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.activities {
+	background-color:yellow;
+	font-size: 48px;
+	color: black;
+}
+
+p.activities {
+	font-size: 10px;
 }

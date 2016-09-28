@@ -1,0 +1,13 @@
+/* This is the style sheet for Assignment I */
+
+body{
+	font-family: "Century Gothic", Century Gothic, Apple Gothic, san-serif;
+	font-size: 14pt;
+	background-color: cyan;
+}
+
+h1{
+	text-align: center;
+	font-size: 10pm;
+	font-color: violet;
+}
